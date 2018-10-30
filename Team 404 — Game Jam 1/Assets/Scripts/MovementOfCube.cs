@@ -28,7 +28,7 @@ public class MovementOfCube : MonoBehaviour
         }
         if (Input.GetKey(KeyCode.Space))
         {
-            transform.position += Vector3.up * speed * Time.deltaTime;
+            transform.position += Vector3.up * speed * Time.deltaTime * .5f;
         }
     }
 }
