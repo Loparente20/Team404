@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{ECF15B40-5F68-4A8A-C5EA-02234879822B}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/NewScene.cs">
+    <Files>
+      <File FileName="Assets/Scripts/MoveCube.cs" Line="25" Column="53" />
+      <File FileName="Assets/Scripts/NewScene.cs" Line="31" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
